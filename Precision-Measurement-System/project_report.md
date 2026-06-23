@@ -2,7 +2,7 @@
 
 **Author:** [Sanjay V S]
 **Date:** 2026(jan-june)
-**Institution / Course:** [BITS Pilani, K K Birla Goa Campus]
+**Institution / Course:** [IIT Delhi/Transducers for Instrumentation]
 **Project Repository:** Precision-Measurement-System
 
 ---
