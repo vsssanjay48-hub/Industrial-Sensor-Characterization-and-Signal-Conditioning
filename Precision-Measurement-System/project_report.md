@@ -1,8 +1,8 @@
 # Precision Measurement System — Project Report
 
-**Author:** [Your Name]
-**Date:** 2024
-**Institution / Course:** [Your Institution]
+**Author:** [Sanjay V S]
+**Date:** 2026(jan-june)
+**Institution / Course:** [BITS Pilani, K K Birla Goa Campus]
 **Project Repository:** Precision-Measurement-System
 
 ---
